@@ -1,8 +1,23 @@
 
-
 body {
-  background-color: lightblue;
+  background-color:#1b1b1e;
 }
-h3 {
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  color: #660708;
+  font-style: italic;
+   text-shadow: 2px 2px black;
+
+}
+
+h2 {
+  color: #e5383b;
+  letter-spacing: 10px;
+}
+
+h4 {
 font-family: "Lucida Console", "Courier New", monospace;
+  color:#d3d3d3;
+  
 }
