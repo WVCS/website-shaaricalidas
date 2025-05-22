@@ -37,3 +37,24 @@ h4:hover {
     font-family: 'Brush Script MT', cursive;
   font-size : 30px
 }
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: darkred;
+  text-align: center;
+position: fixed;
+  top: 0;
+  left:0;
+  
+}
+li a {
+  color: white;
+  text-decoration: underline;
+ float: left;
+  padding: 20px 40px;
+    
+}
+li a:hover {
+  background-color: grey;
+  color: black;
+}
