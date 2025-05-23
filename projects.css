@@ -23,13 +23,15 @@ li a:hover {
 body {
   background-color:#1b1b1e;
 
+  h1:hover {
+     letter-spacing: 15px;
+  color: white;
+  font-size: 35 px;
+}
   h1 {
-    
+   
     color: darkred;
       text-shadow: 5px 5px black;
   
   }
-h1:hover {
-  color: white;
-  font-size: 35 px;
-}
+
