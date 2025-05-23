@@ -27,4 +27,9 @@ body {
     
     color: darkred;
       text-shadow: 5px 5px black;
+  
   }
+h1:hover {
+  color: white;
+  font-size: 35 px;
+}
