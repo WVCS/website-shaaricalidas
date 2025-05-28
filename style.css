@@ -19,11 +19,9 @@ li a:hover {
   background-color: grey;
   color: black;
 }
-
-body {
-  background-color:#1b1b1e;
+body{ 
+  background-image: linear-gradient(to bottom right, #191a1c, #223666);
 }
-
 h1 {
     font-family: "Lucida Console", "Courier New", monospace;
   color: #660708;
